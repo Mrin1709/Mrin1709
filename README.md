@@ -12,9 +12,9 @@ Mrin1709
 
 📧 yellamrinal9@gmail.com
 
-💡 Medium blogs
+💡 Medium blogs:https://medium.com/@yellamrinal9
 
-🏢 LinkedIn
+🏢 LinkedIn:https://www.linkedin.com/in/mrinalyella/
 
 ⚡ Fun fact I think Data is need to be understand, find the pattern
 
