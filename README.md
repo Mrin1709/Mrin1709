@@ -11,11 +11,13 @@ Mrin1709
 📫 How to reach me:
 
 📧 yellamrinal9@gmail.com
-💡 Medium blogs
-🏢 LinkedIn
-⚡ Fun fact I think Data is a fuel to run Business
 
-I see Data Everywhere I Look
+💡 Medium blogs
+
+🏢 LinkedIn
+
+⚡ Fun fact I think Data is need to be understand, find the pattern
+
 
 Languages and Tools:
 git mysql opencv pandas python pytorch scikit_learn seaborn tensorflow
